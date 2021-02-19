@@ -1,5 +1,5 @@
 # TASMAC-BILLING-SYSTEM DEMO
-project Descriptions:
+Project Descriptions:
 
 1.brand list added(wine,rum,brandy,whisky,beer)
 
@@ -53,6 +53,8 @@ Python module included
 
 1.table formate rows and columns created using forloops
 
-2.User input entries are GET in entry list using entry variable 
+2.User input entries are GET and calculated outs are SET in entry list using entry variable 
 
 3.class & function used
+
+4.more Description are included in MAIN.PY program
