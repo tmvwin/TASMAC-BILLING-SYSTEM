@@ -37,4 +37,22 @@ UPCOMMING FEATURES
 
 TKINTER MODULE USED:-
 
-1.
+1.Menu bar added
+
+2.frame added
+
+3.tablayout added-  two tab added(ml180 & ml 325)
+
+4.scrollbar frame added
+
+5.table formate rows and column- user imput Entry created
+
+6.two Button created
+
+Python module included
+
+1.table formate rows and columns created using forloops
+
+2.User input entries are GET in entry list using entry variable 
+
+3.class & function used
